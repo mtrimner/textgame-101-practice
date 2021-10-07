@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5127c9d8707674923a6aa1212febe6b9, type: 3}
+  m_Name: A3
+  m_EditorClassIdentifier: 
+  storyText: "Turbo walks over to the dumbbell rack and grabs the 190lb set of dumbbells
+    and the 200lb set of dumbbells.\n\nHe crosses them on top of each other so he
+    can have to in each hand, turns on cannibal corpse to full blast in his headphones,
+    and begins to lunge down floor of the gym. \n\nHe soon feels a rumble in the
+    ground. The weight's begin falling off racks and the barbells fall form their
+    hooks on the walls. \n\nThe rumble quickly turns into a full blown 5.5 magnitude
+    earthquake. \n\nHe forgot about one of his biggest weaknesses. The shear strength
+    of his legs can leave behind a trail of destruction if he doesn't pay attention.
+    This slipped his mind as he got into the cannibal corpse song playing in his
+    headphones.\n\nWhat should Turbo do next?\n\n1. Ignore it and continue with his
+    set.\n2. Put the weights down and wait for the ground to stop shaking. "
+  nextStates:
+  - {fileID: 11400000, guid: 964a10be96b7b41b1acb7e6e41736f6f, type: 2}
+  - {fileID: 11400000, guid: 4636ec0d483ef4428bc125f982525db5, type: 2}
